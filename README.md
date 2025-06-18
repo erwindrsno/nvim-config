@@ -9,3 +9,5 @@ rm -rf ~/.local/share/nvim/lazy
 
 # reopen Neovim
 nvim
+
+:Lazy sync
